@@ -1,5 +1,5 @@
 # Data-Analysis-SQL
-## Data Exploration of COVID-19 Dataset
+## IMPACT OF COVID-19 PANDEMIC: A GLOBAL VIEW 
 ### Introduction
 This is an analysis of the COVID-19 pandemic, which explores both the number of deaths recorded and the vaccinations.
 The aim of this analysis to determine the effect of the COVID-19 pandemic around the world.
